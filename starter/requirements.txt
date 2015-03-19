@@ -1,1 +1,1 @@
--r requirements/mine.txt
+-r requirements/local.txt
